@@ -1,0 +1,13 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: "fun getCamelStyleString(inputString: String): String {\n    // put your code\
+    \ here   \n    return result\n}"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/23551#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 22 Nov 2022 05:04:26 UTC"
+record: -1

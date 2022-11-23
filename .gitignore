@@ -1,0 +1,15 @@
+# Project exclude paths
+/.gradle/
+/Smart Calculator/task/build/
+/Smart Calculator/task/out/
+/Smart Calculator/task/out/production/classes/
+/Topics/BigInteger/LCM/out/
+/Topics/BigInteger/LCM/out/production/classes/
+/Topics/BigInteger/Simple expression/out/
+/Topics/BigInteger/Simple expression/out/production/classes/
+/Topics/Mutable Map/Help the robot/out/
+/Topics/Mutable Map/Help the robot/out/production/classes/
+/Topics/Regexps in use/Splitting with spaces/out/
+/Topics/Regexps in use/Splitting with spaces/out/production/classes/
+/Topics/The try-catch-finally statement/Parting words/out/
+/Topics/The try-catch-finally statement/Parting words/out/production/classes/
